@@ -14,6 +14,7 @@ This project uses machine learning to identify customers who are likely to leave
 - Python
 - Pandas
 - Scikit-learn
+- numpy
 - Streamlit
 
 ## Features
