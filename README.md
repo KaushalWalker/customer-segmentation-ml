@@ -24,9 +24,12 @@ This project segments telecom customers based on their usage behavior and spendi
 - Deployment of the model using Streamlit
 
 **Final features used in the model:**
-- Tenure
-- Monthly Charges
-- Total Charges
+- enure
+- MonthlyCharges
+- TotalCharges
+- Contract
+- InternetService
+- SeniorCitizen
 
 ## 📊 Key Customer Segments
 **High-Spending New Customers**
@@ -42,11 +45,11 @@ This project segments telecom customers based on their usage behavior and spendi
 **Low Spending Customers**
 - Lower monthly charges
 - Moderate tenure
-
+- 
 ## 📈 Business Insights
-- Customers with **high monthly charges but low tenure** should receive retention offers because they are high-value but at risk of leaving.
-- Customers with **higher tenure** tend to return more often and represent loyal users.
-- Customers with **higher monthly and total charges** spend more and contribute significantly to company revenue.
+- **Who should get retention offers?** Customers with high monthly charges but low tenure, as they generate good revenue but may leave early.
+- **Who should get early access to new features?** Loyal customers with high tenure and consistent usage, since they are long-term users and valuable to the business.
+- **Who is likely to churn no matter what you do?** Customers with very low tenure and low spending, as they show weak engagement with the service.
 
 ## 💼 Business Impact
 - Helps telecom companies identify valuable customers
