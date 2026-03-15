@@ -24,7 +24,7 @@ This project segments telecom customers based on their usage behavior and spendi
 - Deployment of the model using Streamlit
 
 **Final features used in the model:**
-- enure
+- Tenure
 - MonthlyCharges
 - TotalCharges
 - Contract
